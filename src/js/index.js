@@ -18,5 +18,5 @@ setInterval(()=>{
 //render your react application
 ReactDOM.render(<SecondsCounter 
     segundos={tiempo}/>, document.querySelector("#app"));
-},100000000)
+},100)
 
